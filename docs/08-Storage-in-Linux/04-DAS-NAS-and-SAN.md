@@ -6,7 +6,7 @@
 
   - DAS - Direct Attached Storage, external storage is attached directly to the host system tha requires the space.
   - NAS - Network Attached Storage quite similar to NFS server.
-  - SAN - Storage Aread Network, this technology uses a fiber channel for providing high-speed storage.
+  - SAN - Storage Area Network, this technology uses a fiber channel for providing high-speed storage.
 
   #### NFS
   
